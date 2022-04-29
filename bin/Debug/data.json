@@ -1,0 +1,87 @@
+[
+  {
+    "$id": "1",
+    "Id": 1,
+    "Firstname": "Alex",
+    "Lastname": "Pavlikov",
+    "Age": "20",
+    "Experience": "2",
+    "Position": "Junior pilot",
+    "Plane": {
+      "$id": "2",
+      "Id": 1000,
+      "PlaneType": "Passenger plane",
+      "Model": "AH-2020",
+      "Capacity": "120",
+      "Status": "Ready to start"
+    }
+  },
+  {
+    "$id": "3",
+    "Id": 2,
+    "Firstname": "Sergey",
+    "Lastname": "Ivanov",
+    "Age": "20",
+    "Experience": "20",
+    "Position": "Senior pilot",
+    "Plane": {
+      "$id": "4",
+      "Id": 1001,
+      "PlaneType": "Passenger plane",
+      "Model": "AH-2020",
+      "Capacity": "120",
+      "Status": "Ready to start"
+    }
+  },
+  {
+    "$id": "5",
+    "Id": 3,
+    "Firstname": "Dmitry",
+    "Lastname": "Kuznetcov",
+    "Age": "20",
+    "Experience": "20",
+    "Position": "Senior pilot",
+    "Plane": {
+      "$id": "6",
+      "Id": 1002,
+      "PlaneType": "Cargo plane",
+      "Model": "AH-300",
+      "Capacity": "30 tons",
+      "Status": "Waiting"
+    }
+  },
+  {
+    "$id": "7",
+    "Id": 4,
+    "Firstname": "Alexey",
+    "Lastname": "Baranov",
+    "Age": "20",
+    "Experience": "20",
+    "Position": "Senior pilot",
+    "Plane": {
+      "$id": "8",
+      "Id": 1003,
+      "PlaneType": "Cargo plane",
+      "Model": "AH-1000",
+      "Capacity": "50 tons",
+      "Status": "Waiting"
+    }
+  },
+  {
+    "$id": "9",
+    "Id": 4,
+    "Firstname": "gdgd",
+    "Lastname": "gdgd",
+    "Age": "33",
+    "Experience": "4",
+    "Position": "Juniour pilot",
+    "Plane": {
+      "$id": "10",
+      "Id": 1003,
+      "PlaneType": "Not have",
+      "Model": "",
+      "Capacity": "",
+      "Status": ""
+    }
+  }
+]

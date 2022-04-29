@@ -1,0 +1,173 @@
+[
+  {
+    "$id": "1",
+    "Id": 1,
+    "FirstName": null,
+    "LastName": null,
+    "Login": "1",
+    "Password": "1",
+    "Roles": "Admin"
+  },
+  {
+    "$id": "2",
+    "Id": 1533433457,
+    "FirstName": null,
+    "LastName": null,
+    "Login": "123123",
+    "Password": "123123123",
+    "Roles": "User"
+  },
+  {
+    "$id": "3",
+    "Id": 1980526439,
+    "FirstName": null,
+    "LastName": null,
+    "Login": "123123",
+    "Password": "123123123",
+    "Roles": "User"
+  },
+  {
+    "$id": "4",
+    "Id": 308708605,
+    "FirstName": null,
+    "LastName": null,
+    "Login": "123123",
+    "Password": "123123123",
+    "Roles": "User"
+  },
+  {
+    "$id": "5",
+    "Id": 723500083,
+    "FirstName": null,
+    "LastName": null,
+    "Login": "1",
+    "Password": "11111111",
+    "Roles": "User"
+  },
+  {
+    "$id": "6",
+    "Id": 1529055889,
+    "FirstName": null,
+    "LastName": null,
+    "Login": "1",
+    "Password": "11111111",
+    "Roles": "User"
+  },
+  {
+    "$id": "7",
+    "Id": 1114290178,
+    "FirstName": null,
+    "LastName": null,
+    "Login": "111",
+    "Password": "44444444",
+    "Roles": "User"
+  },
+  {
+    "$id": "8",
+    "Id": 1329232318,
+    "FirstName": null,
+    "LastName": null,
+    "Login": "123",
+    "Password": "11111111",
+    "Roles": "User"
+  },
+  {
+    "$id": "9",
+    "Id": 2037275954,
+    "FirstName": null,
+    "LastName": null,
+    "Login": "123",
+    "Password": "11111111",
+    "Roles": "User"
+  },
+  {
+    "$id": "10",
+    "Id": 1715541526,
+    "FirstName": null,
+    "LastName": null,
+    "Login": "123",
+    "Password": "11111111",
+    "Roles": "User"
+  },
+  {
+    "$id": "11",
+    "Id": 829174901,
+    "FirstName": null,
+    "LastName": null,
+    "Login": "1111",
+    "Password": "22221111",
+    "Roles": "User"
+  },
+  {
+    "$id": "12",
+    "Id": 93804188,
+    "FirstName": null,
+    "LastName": null,
+    "Login": "2323",
+    "Password": "23232323",
+    "Roles": "User"
+  },
+  {
+    "$id": "13",
+    "Id": 897243488,
+    "FirstName": null,
+    "LastName": null,
+    "Login": "4444",
+    "Password": "44445555",
+    "Roles": "User"
+  },
+  {
+    "$id": "14",
+    "Id": 1995338014,
+    "FirstName": null,
+    "LastName": null,
+    "Login": "5454",
+    "Password": "54545454",
+    "Roles": "User"
+  },
+  {
+    "$id": "15",
+    "Id": 914580223,
+    "FirstName": null,
+    "LastName": null,
+    "Login": "123123",
+    "Password": "55554444",
+    "Roles": "User"
+  },
+  {
+    "$id": "16",
+    "Id": 1512278896,
+    "FirstName": null,
+    "LastName": null,
+    "Login": "123",
+    "Password": "123123123123",
+    "Roles": "User"
+  },
+  {
+    "$id": "17",
+    "Id": 157427701,
+    "FirstName": "alex",
+    "LastName": "pav",
+    "Login": "5656",
+    "Password": "67676767",
+    "Roles": "User"
+  },
+  {
+    "$id": "18",
+    "Id": 757503764,
+    "FirstName": "alex",
+    "LastName": "pav",
+    "Login": "12313",
+    "Password": "13131313",
+    "Roles": "User"
+  },
+  {
+    "$id": "19",
+    "Id": 918903294,
+    "FirstName": "alex",
+    "LastName": "pav",
+    "Login": "alexPav",
+    "Password": "45454545",
+    "Roles": "User"
+  }
+]

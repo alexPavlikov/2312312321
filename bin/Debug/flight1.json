@@ -1,0 +1,14 @@
+[
+  {
+    "$id": "1",
+    "Id": 1,
+    "StartingTown": "Moscow",
+    "CountryS": "Russia",
+    "EndingTown": "Rostov-na-Donu",
+    "CountryE": "Russia",
+    "Distance": "650",
+    "DispatchTime": "26.04.2022 13:35",
+    "Playground": "1a",
+    "Status": "Waiting"
+  }
+]
